@@ -1,7 +1,7 @@
 ## Hi there,
 
 <h1 align="center">I'm Aryan Kumar</h1>
-<h3 align="center">A passionate backend developer from India who is earger to learn and acquire new skills so that I can actively contribute to solve real life issues of the society.</h3>
+<h3 align="center">A passionate backend developer from India who is eager to learn and acquire new skills so that I can actively contribute towards solving real life problems of the society.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryankumar102907&label=Profile%20views&color=0e75b6&style=flat" alt="aryankumar102907" /> </p>
 
