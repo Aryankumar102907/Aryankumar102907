@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there,
 
 <h1 align="center">I'm Aryan Kumar</h1>
 <h3 align="center">A passionate backend developer from India who is earger to learn and acquire new skills so that I can actively contribute to solve real life issues of the society.</h3>
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Smart contracts**
 
-- 🌱 I’m currently learning **Solidity,Smart Contracts,CPP,JAVA**
+- 🌱 I’m currently learning **Solidity, Smart Contracts, CPP, JAVA, AIML**
 
 - 👯 I’m looking to collaborate on **Open Source Contributions and Competitive Coding**
 
