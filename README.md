@@ -1,5 +1,5 @@
 <h1 align="center">I'm Aryan Kumar</h1>
-<h3 align="center">A passionate backend developer from India who is earger to learn and acquire new skills so that I can actively contribute to solve real life issues of the society.</h3>
+<h3 align="center">A passionate backend developer from India who is eager to learn and acquire new skills so that I can actively contribute to solve real life issues of the society.</h3>
 
 - 🔭 I’m currently working on **Smart contracts**
 
