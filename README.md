@@ -2,8 +2,6 @@
 
 <h1 align="center">I'm Aryan Kumar</h1>
 <h3 align="center">A passionate backend developer from India who is eager to learn and acquire new skills so that I can actively contribute towards solving real life problems of the society.</h3>
-![Leetcode Stats](https://leetcard.Aryankumar102907/Aryankumar102907)
-![](https://leetcard.jacoblin.cool/jacoblincool?ext=activity)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryankumar102907&label=Profile%20views&color=0e75b6&style=flat" alt="aryankumar102907" /> </p>
 
