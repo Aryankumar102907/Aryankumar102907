@@ -3,6 +3,8 @@
 <h1 align="center">I'm Aryan Kumar</h1>
 <h3 align="center">A passionate backend developer from India who is eager to learn and acquire new skills so that I can actively contribute towards solving real life problems of the society.</h3>
 
+![](https://leetcard.jacoblin.cool/jacoblincool?ext=activity)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryankumar102907&label=Profile%20views&color=0e75b6&style=flat" alt="aryankumar102907" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryankumar102907" alt="aryankumar102907" /></a> </p>
