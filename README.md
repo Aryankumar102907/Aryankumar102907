@@ -26,8 +26,9 @@
 
 <div align="center"> 
   <h2>🐍 Contributions 🐍</h2>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-</div> 
+  <img alt="GitHub Snake Light" src="https://github.com/Aryankumar102907/Aryankumar102907/blob/output/github-snake.svg#gh-light-mode-only" />
+  <img alt="GitHub Snake Dark" src="https://github.com/Aryankumar102907/Aryankumar102907/blob/output/github-snake-dark.svg#gh-dark-mode-only" />
+</div>
 <!-- https://github.com/Aryankumar102907 -->
 
 <h3 align="left">Connect with me:</h3>
