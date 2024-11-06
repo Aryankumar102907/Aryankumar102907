@@ -26,7 +26,7 @@
 
 <div align="center"> 
   <h2>🐍 Contributions 🐍</h2>
-  <img alt="GitHub Snake Light" src="https://github.com/Aryankumar102907/Aryankumar102907/blob/output/github-snake.svg#gh-light-mode-only" />
+<!--   <img alt="GitHub Snake Light" src="https://github.com/Aryankumar102907/Aryankumar102907/blob/output/github-snake.svg#gh-light-mode-only" /> -->
   <img alt="GitHub Snake Dark" src="https://github.com/Aryankumar102907/Aryankumar102907/blob/output/github-snake-dark.svg#gh-dark-mode-only" />
 </div>
 <!-- https://github.com/Aryankumar102907 -->
