@@ -29,9 +29,14 @@
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Aryankumar102907/Aryankumar102907/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/><br/>
+  <br/><br/>
 </div>
+<p align="center"> 
+  🤝 Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Aryankumar102907/count.svg" />
+</p>
 
+<p align="center" width="100%">
 <!-- https://github.com/Aryankumar102907 -->
 
 <h3 align="left">Connect with me:</h3>
