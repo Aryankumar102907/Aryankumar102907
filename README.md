@@ -40,6 +40,10 @@
 <a href="https://instagram.com/kumar._.aryan102907" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kumar._.aryan102907" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/nightshift1729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="nightshift1729" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/aryankumar102907/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/aryankumar102907/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/codedamnit/" target="blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" height="30" width="40" />
+</a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
